@@ -8,7 +8,7 @@ import os
 import pickle
 from itertools import cycle
 
-TOKEN = 'NTA4MTI1ODEyMDU5Mjc1Mjkz.Dr6tHg.W50_mUUX2AEx0PjfW5eOQebSVz0'
+TOKEN = ''
 
 client = commands.Bot(command_prefix = 'i.')
 client.remove_command('help')
