@@ -24,7 +24,7 @@ Infinity is a Python-based Discord bot designed to enhance your server experienc
 
 5. Run the bot using the following command:
    ```
-   python bot.py
+   python infinity.py
    ```
 
 ## Configuration
@@ -33,13 +33,13 @@ Make sure to configure the `config.py` file before running the bot. You can set 
 ## Usage
 Once the bot is running and connected to your server, you can use the following commands:
 
-- `!kick @user reason`: Kick a user from the server.
-- `!ban @user reason`: Ban a user from the server.
-- `!mute @user duration reason`: Mute a user for a specified duration.
-- `!warn @user reason`: Warn a user for their behavior.
-- `!info @user`: Get information about a user.
-- `!serverinfo`: Get information about the server.
-- `!rules`: Display the server rules.
+- `i.kick @user reason`: Kick a user from the server.
+- `i.ban @user reason`: Ban a user from the server.
+- `i.mute @user duration reason`: Mute a user for a specified duration.
+- `i.warn @user reason`: Warn a user for their behavior.
+- `i.info @user`: Get information about a user.
+- `i.serverinfo`: Get information about the server.
+- `i.rules`: Display the server rules.
 
 ## Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
