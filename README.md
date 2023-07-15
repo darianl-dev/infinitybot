@@ -37,9 +37,6 @@ Once the bot is running and connected to your server, you can use the following 
 - `i.ban @user reason`: Ban a user from the server.
 - `i.mute @user duration reason`: Mute a user for a specified duration.
 - `i.warn @user reason`: Warn a user for their behavior.
-- `i.info @user`: Get information about a user.
-- `i.serverinfo`: Get information about the server.
-- `i.rules`: Display the server rules.
 
 ## Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
