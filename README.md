@@ -18,9 +18,7 @@ Infinity is a Python-based Discord bot designed to enhance your server experienc
    pip install -r requirements.txt
    ```
 
-3. Rename the `config.example.py` file to `config.py`.
-
-4. Edit the `config.py` file and provide your Discord bot token.
+3. Edit the `infinity.py` file and provide your Discord bot token.
 
 5. Run the bot using the following command:
    ```
@@ -28,7 +26,7 @@ Infinity is a Python-based Discord bot designed to enhance your server experienc
    ```
 
 ## Configuration
-Make sure to configure the `config.py` file before running the bot. You can set the bot token, prefix, and other settings according to your preferences.
+Make sure to configure the `infinity.py` file before running the bot. You can set the bot token, prefix, and other settings according to your preferences.
 
 ## Usage
 Once the bot is running and connected to your server, you can use the following commands:
