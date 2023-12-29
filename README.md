@@ -10,7 +10,7 @@ Infinity is a Python-based Discord bot designed to enhance your server experienc
 ## Installation
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/itsretsu/infinity-bot.git
+   git clone https://github.com/itsretsu/infinitybot.git
    ```
 
 2. Install the required dependencies using pip.
